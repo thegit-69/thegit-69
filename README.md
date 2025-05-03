@@ -23,4 +23,4 @@ ____
 
 ___
 
-<img alt="Visitor Count" src="https://profile-counter.glitch.me/Siddhesh-Agarwal/count.svg">
+![Visitor Count](https://profile-counter.glitch.me/{thegit-69}/count.svg)
