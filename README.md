@@ -18,7 +18,7 @@ ____
 
 ### Languages and tools I know and have worked with
 <p align="center">
-    <img alt="My Skills" src="https://skillicons.dev/icons?i=c,git,github,githubactions,gitlab,bash,powershell,linux">
+    <img alt="My Skills" src="https://skillicons.dev/icons?i=c,git,github,bash,powershell,linux">
 </p>
 
 ___
