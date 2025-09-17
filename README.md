@@ -1,6 +1,6 @@
 ```plaintext
 ╔════════════════════════ Hey There! ═══════════════════════╗ 😎 Dasarath C
-║ I'm a first year CSE Student from chennai, India.         ║ ┣━━ 💻 Learning App/Web development
+║ I'm a 2nd year CSE Student from chennai, India.           ║ ┣━━ 💻 Learning App/Web development
 ║                                                           ║ ┣━━ 🔢 Mathematics 
 ║ My areas of interest are AI/ML, LLMs, Backend, Web Dev,   ║ ┣━━ Doing cs50x 
 ║ Cloud, Cyber Security. Basically, anything related  to    ║       
