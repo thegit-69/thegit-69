@@ -22,4 +22,3 @@ ____
 
 ___
 
-![Visitor Count](https://profile-counter.glitch.me/{thegit-69}/count.svg)
