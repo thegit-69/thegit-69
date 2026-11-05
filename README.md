@@ -18,7 +18,7 @@ ____
 ### Languages and tools I know and have worked with
 #### Languages  
 <p align="center">
-    <img alt="My Skills" src="https://skillicons.dev/icons?i=python,java,c,cpp,dart,js">
+    <img alt="My Skills" src="https://skillicons.dev/icons?i=python,java,c,cpp,dart,html,css,js">
 </p>
 
 #### Tools  
@@ -28,7 +28,7 @@ ____
 
 #### Frameworks 
 <p align="center">
-    <img alt="My Skills" src="https://skillicons.dev/icons?i=react,vite,flutter">
+    <img alt="My Skills" src="https://skillicons.dev/icons?i=react,vite,bootstrap,flutter">
 </p>
 ___
 
